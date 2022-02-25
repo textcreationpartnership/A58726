@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The profit and loss of the East-India-trade stated, and humbly offer'd to the consideration of the present Parliament.</title>
+            <author>T. S. (Thomas Smith)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58726</idno>
+            <idno type="STC">Wing S175</idno>
+            <idno type="STC">ESTC R32336</idno>
+            <idno type="EEBO-CITATION">12638506</idno>
+            <idno type="OCLC">ocm 12638506</idno>
+            <idno type="VID">64962</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58726)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64962)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1535:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The profit and loss of the East-India-trade stated, and humbly offer'd to the consideration of the present Parliament.</title>
+                  <author>T. S. (Thomas Smith)</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>MDCC [1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.S.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Commerce --  India.</term>
+               <term>Great Britain --  Commercial policy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64962:1"/>
+            <pb facs="tcp:64962:1" rendition="simple:additions"/>
+            <p>THE <hi>Profit</hi> and <hi>Loſs</hi> OF THE <hi>Eaſt-India</hi>-Trade, Stated, and humbly offer'd to the Conſi<g ref="char:EOLhyphen"/>deration of the Preſent PARLIAMENT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64962:2"/>
+            <pb n="3" facs="tcp:64962:2"/>
+            <head>The <hi>Profit</hi> and <hi>Loſs</hi> of the <hi>Eaſt-India-Trade,</hi> Stated; and humbly offered to the Conſide<g ref="char:EOLhyphen"/>ration of the preſent <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+            </head>
+            <p>THE Affair of the <hi>Eaſt-India</hi>-Trade being Matter of long Debate in <hi>England,</hi> and there being as many Opi<g ref="char:EOLhyphen"/>nions as there are differing Intereſts: I hope it will not be unacceptable to un<g ref="char:EOLhyphen"/>byaſſed Perſons, to give ſome little Light into that Trade, with reſpect to a Na<g ref="char:EOLhyphen"/>tional Profit and Loſs; I ſhall take no more notice of particular Dealers, than is neceſſary to help us to give a true Eſti<g ref="char:EOLhyphen"/>mate of the <hi>Profit</hi> or <hi>Loſs</hi> as it effects the whole; and I will endeavour to do this, as one unconcern'd in any particular In<g ref="char:EOLhyphen"/>tereſt, and as deſirous of the good of the
+<pb n="4" facs="tcp:64962:3"/>Nation. And that we may the more diſtinctly underſtand, wherein the Be<g ref="char:EOLhyphen"/>nefit and Advantage of that Trade con<g ref="char:EOLhyphen"/>ſiſts, I will take notice of the Commo<g ref="char:EOLhyphen"/>dities we Export and Import; our Ex<g ref="char:EOLhyphen"/>port conſiſting chiefly in Bulloin, which is brought to us as the Effects of our own Product and Manufactures, and Foreign Commodities Imported and Exported again; and other parts of our Export to <hi>India,</hi> conſiſt of Cloth, Pur<g ref="char:EOLhyphen"/>petuanys, <hi>&amp;c.</hi> Annually, as near as I can gueſs, to the value of Twenty five, or Thirty Thouſand Pounds; and about five Thouſand Pounds in ſeveral ſorts of Haberdaſhery Wares; the Working and the Materials of theſe Commodi<g ref="char:EOLhyphen"/>ties being our own, this Trade muſt be thus far an Advantage to <hi>England</hi> in general; beſides, there is by this Trade, an Employment for about Twenty five or Thirty Ships, which may employ two Thouſand Sea-men, and the In<g ref="char:EOLhyphen"/>ſtruments and Tackle for ſayling theſe Ships, employ many Perſons of diffe<g ref="char:EOLhyphen"/>rent Trades.</p>
+            <pb n="5" facs="tcp:64962:3"/>
+            <p> The Goods Imported from <hi>India</hi> as the Effects of our Bulloin, and Com<g ref="char:EOLhyphen"/>modities are various, ſome of them uſe<g ref="char:EOLhyphen"/>ful for our own Conſumption, others helpful to us in War, ſome advantagi<g ref="char:EOLhyphen"/>ous for Exportation, others deſtructive to our own Product and Manufactures, and a hindrance to our Merchandizing with our own Commodities, and ſo per<g ref="char:EOLhyphen"/>nicious or advantagious according to the Uſes they ſerve too: The Goods that are Imported from <hi>India,</hi> that are not of hindrance to our own Product or Manufactures, cannot do us direct<g ref="char:EOLhyphen"/>ly any dammage, tho' conſum'd a<g ref="char:EOLhyphen"/>mongſt us, unleſs they hinder our Mer<g ref="char:EOLhyphen"/>chandizing Trade with our Neighbours, in our own Commodities, where our Profit is greater: There is alſo import<g ref="char:EOLhyphen"/>ed from <hi>India,</hi> many unwrought Mate<g ref="char:EOLhyphen"/>rials for Art and Manufactures, which yield an Employment to our People, and in that reſpect, is an Advantage to the Nation.</p>
+            <p>But that we may more diſtinctly un<g ref="char:EOLhyphen"/>derſtand this Matter, we will conſider the Profit that comes to each Intereſt, concerned ſo far as either can be ac<g ref="char:EOLhyphen"/>counted
+<pb n="6" facs="tcp:64962:4"/>a National Profit, that Part wherein the Merchant only is concern<g ref="char:EOLhyphen"/>ed, let us enquire what his Proſit may be in his Importation and Exportation; we will ſuppoſe the whole of our Ex<g ref="char:EOLhyphen"/>port ſhould be Bulloin, and in Com<g ref="char:EOLhyphen"/>modities to the value of Five Hundred Thouſand Pound <hi>per Annum,</hi> it then will follow, That whatever he fells, his Re<g ref="char:EOLhyphen"/>turns for more than Principal and Char<g ref="char:EOLhyphen"/>ges is the Merchant's Profit; and the Merchants being Inhabitants of <hi>England,</hi> the Nation muſt be ſo much the Rich<g ref="char:EOLunhyphen"/>er, unleſs theſe Effects be uſed to Lux<g ref="char:EOLhyphen"/>ury, or ſome other way hinder other Advantagious Employments; but what this Profit of the whole Imports a<g ref="char:EOLhyphen"/>mount to, is very hard to aſſert, unleſs we take our Gueſs from the Increaſe or Diminution of the Stocks that have been employed in that Trade; and it being moſtly carried on in Companies, the Managers of ſuch Companies can eaſily tell what they ſave or loſe; and the Perſons concern'd in thoſe Trades, muſt know by their Dividends, and the Va<g ref="char:EOLhyphen"/>lue of their principal Stock; what Yearly Intereſt and Advantage they
+<pb n="7" facs="tcp:64962:4"/>make: and a Man would think by their greedineſs to catch at, and unwil<g ref="char:EOLhyphen"/>lingneſs to part with any part of this Trade, it ſhould be very profitable to the Traders that are concerned therein, and yet at the ſame time; to hear the ſame Men complain, That they are great Loſers, and that their Stocks, for many Years, have leſſen'd, and not ſo much as Common Intereſt divided a<g ref="char:EOLhyphen"/>mong the Subſcribers, which with their Aſſerting both in Print and otherwiſe, as it may ſerve their Intereſt, That the <hi>India</hi> Trade double the Principal every Return; and that they make Two of One in Three Years; that is from the time of their Export, to the time they receive their Money for the Sale off their Returns; theſe appear Contra<g ref="char:EOLhyphen"/>dictions, and are unaccountable; but Perſons of ſuch Reputation aſſerting it, we will ſuppoſe it to be true, and then the ſtate of that Trade ſtands thus, with Fifteen Hundred Thouſand Pound Stock doubled once in Three Years, they ſave, I ſuppoſe they mean towards their Charges, Five Hundred
+<pb n="8" facs="tcp:64962:5"/>Thouſand Pound <hi>per Annum,</hi> which they tell us, is all Profit to the Nation.</p>
+            <p>The next part of this Trade to be conſider'd is, that which is Exported a<g ref="char:EOLhyphen"/>gain to other Countries, by our own Merchants; and even here we muſt di<g ref="char:EOLhyphen"/>ſtinguiſh between that part of this Ex<g ref="char:EOLhyphen"/>portation that is oppoſite to, and hinder the Exporting our own Materials and Manufactures, and what is Foreign to our own Commodities; but that we may give this Trade all Advantage that it can pretend to, we will ſurpoſe our Mer<g ref="char:EOLhyphen"/>chants Export <hi>per Annum,</hi> to the Va<g ref="char:EOLhyphen"/>lue of Two hundred thouſand Pound in <hi>India</hi> Commodities, and advance Ten <hi>per Cent.</hi> above the Coſt at the pub<g ref="char:EOLhyphen"/>lick Sale, this will add Twenty Thou<g ref="char:EOLhyphen"/>ſand Pound Profit to the Nation, over and above what the Importer gains at the Inch of Candle; and this I conceive to be the whole National Profit this Trade can have any Pretence to, if ſo much may be allowed to it.</p>
+            <p>I can by no means bring in to this Account any Profit that the Whole-ſale or Retai-Dealer at Home, receive by their trading in theſe Commodities, be<g ref="char:EOLhyphen"/>cauſe
+<pb facs="tcp:64962:5"/>
+               <pb facs="tcp:64962:6"/>
+               <pb n="9" facs="tcp:64962:6"/>in the Nation, what one ſaves a<g ref="char:EOLhyphen"/>nother loſes, and the Commodities are neither more or leſs valuable, or the Na<g ref="char:EOLhyphen"/>tion Richer or Poorer, tho' thoſe Com<g ref="char:EOLhyphen"/>modities ſhould be ſold and bought a Thouſand times over.</p>
+            <p>Neither can I allow any National Profit by the Home-Conſumptions of theſe Commodities, more than accrue to the Importer at his Firſt Sale, the Price whereof generally agreeing with the Price of our own Manufactures, to which they are oppoſite, ſo that the Conſu<g ref="char:EOLhyphen"/>mer may furniſh himſelf with our own Commodities, fully as cheap as in theſe, and have as great a variety for his Choice, and as ſerviceable: If any will aſſert that theſe Manufactures promote the Exportation of our own, which I wholly deny, or that our Manufactures cannot ſupply our Occaſions and De<g ref="char:EOLhyphen"/>mands, which I never yet met with a<g ref="char:EOLhyphen"/>ny that would aſſert, and the great want of Employment of our People, e<g ref="char:EOLhyphen"/>vidence the contrary; ſo that the Pro<g ref="char:EOLhyphen"/>fit that comes to this Nation, upon a Sup<g ref="char:EOLhyphen"/>poſition what theſe Gentlemen Aſſert is True, ſtands-thus,
+<table>
+                  <pb n="10" facs="tcp:64962:7"/>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>Pounds.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>By the Return of Five Hundred Thouſand Pound from <hi>India per Annum.</hi>
+                     </cell>
+                     <cell>500000</cell>
+                  </row>
+                  <row>
+                     <cell>By the Export from <hi>Eng<g ref="char:EOLhyphen"/>land</hi> by our Merchants.</cell>
+                     <cell>20000</cell>
+                  </row>
+                  <row>
+                     <cell>Beſides what Advantage we have by an Export of Thirty or Forty Thouſand Pounds <hi>per Annum</hi> in Ma<g ref="char:EOLhyphen"/>nufactures.</cell>
+                     <cell>40000</cell>
+                  </row>
+                  <row>
+                     <cell role="total">In all,</cell>
+                     <cell role="total">560000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>We will next conſider what Loſs comes to the Nation by this Trade to <hi>India,</hi> and I will do it under theſe Heads; as it hinders our Exportation, and as it prevents the Emylopment of our own People, and as it hinders the Improvement of our own Manufactures, and the Conſumption of our own Wool.</p>
+            <p>As to our Exportation, it has been a great hindrance of our Exports to <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> and our <hi>Weſt-India</hi> Colonies, that we have enjoyed to the one for more than one Hundred Years, and to the o<g ref="char:EOLhyphen"/>ther
+<pb n="11" facs="tcp:64962:7"/>for a long time; it is known to many Merchants and others, that we have had a very conſiderable Trade to theſe Places in Commodities made of Wool, and Silk and Wool, for Wo<g ref="char:EOLhyphen"/>mens Ware and Uſe; and that no <hi>European</hi> Merchants or Manufactures could ever get this Trade from us, theſe being natural to <hi>England;</hi> we have out-ſold and under-ſold all our Neighbours; but ſince the Improvement and Increaſe of the Importation of Cotten and Silk, and Cotten and Herba Commodities from <hi>India,</hi> which Increaſe our Mer<g ref="char:EOLhyphen"/>chants almoſt alone have cauſed.</p>
+            <p>We have wholly loſt our Trades to theſe Places, for our Manufactures that are proper for Women's Conſumption, that are fine, and above the value of Twelve Pence <hi>per</hi> Yard; our <hi>Weſt-In<g ref="char:EOLhyphen"/>dies</hi> that us'd formerly, and ſtill might be cloathed with our own Manufa<g ref="char:EOLhyphen"/>ctures, for the Female Sex will now touch none, unleſs ſuch as are very Cheap, at eight Pence, ten Pence, or twelve Pence <hi>per</hi> Yard; and to that De<g ref="char:EOLhyphen"/>gree is this Trade loſt, that of all thoſe ſeveral Species of fine Goods that uſe to
+<pb n="12" facs="tcp:64962:8"/>be made in, and Exported out of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> upon the beſt Inquiry I can make, there is not now one Hundred Looms at Work, in the whole Nation, upon Stuffs for Women, to the value of Eighteen Pence <hi>per</hi> Yard, made of Wool or Silk and Wooll and Grogram Yarn, and thoſe that be occaſion'd by an Ac<g ref="char:EOLhyphen"/>cident of the preſent Mourning, where<g ref="char:EOLhyphen"/>as formerly this Nation us'd to abound with different kinds of theſe Manufa<g ref="char:EOLhyphen"/>ctures, from twelve Pence <hi>per</hi> Yard, to five or ſix Shillings; and that this Dam<g ref="char:EOLhyphen"/>mage may be the ſurer faſtened upon us, a Draw-back is allowed to our own Collonies, that they may be Cloathed Cheaper than the Inhabiants of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> with <hi>India</hi> Manufactures; and that our own Commodities may be ſhut out, tho' the Inhabitants of thoſe Collonies are obliged to uſe only what they have from us, which muſt be a great loſs to this Nation, both in the Materials and Workmanſhip, which both to <hi>Holland</hi> and to theſe Plantations, cannot amount to leſs than Two hundred Thou<g ref="char:EOLhyphen"/>ſand Pound <hi>per An.</hi> and this Loſs muſt come by the <hi>India</hi> Trade, no Manufa<g ref="char:EOLhyphen"/>ctures
+<pb n="13" facs="tcp:64962:8"/>ſtanding in oppoſition to theſe of our own, but <hi>India.</hi>
+            </p>
+            <p>We will now conſider our <hi>Turky</hi> and <hi>Italian</hi> Trades; and tho' I acknowledge the preſent Traders to theſe Places, are more competent Judges of what Dam<g ref="char:EOLhyphen"/>mage come to them in their Exports; yet I cannot but take notice they are much leſs then formerly, the Rea<g ref="char:EOLhyphen"/>ſons may be various; I ſhall only hint what is obvious from the <hi>Eaſt-India</hi>-Trade: This Account I have had of Matter of Fact, from known Perſons, with reſpect to their <hi>Aleppo</hi> Trade; that before our Cloth was carried di<g ref="char:EOLhyphen"/>rectly by Sea to <hi>Perſia,</hi> great Numbers of Carravans uſe to come through a long Tract of Land many hundreds of Miles with Silk and other Commodities to <hi>A<g ref="char:EOLhyphen"/>leppo,</hi> and buy our Cloth of our Factors that reſided there; and in their Return in the great Towns and Villages as they paſ<g ref="char:EOLhyphen"/>ſed, us'd to ſell our Cloth to the Inha<g ref="char:EOLhyphen"/>bitants of thoſe Countries, in very large quantities; and that ſince the <hi>India</hi> Mer<g ref="char:EOLhyphen"/>chants have ſupplyed the <hi>Perſians,</hi> theſe Carravans have ceaſed to come; and though we may have kept part of our
+<pb n="14" facs="tcp:64962:9"/>
+               <hi>Perſia</hi> Trade, we have loſt the Trade of thoſe large Countries through which theſe Carriers have formerly paſſed, which have not only been, if true, a loſs to our Export of Cloth, but a fur<g ref="char:EOLhyphen"/>ther Loſs to this Nation, by keeping our Poor unemploy'd in the Silk that us'd to be brought in exchange for this Cloth; and here I think it con<g ref="char:EOLhyphen"/>venient to mention, how profitable to this Nation our <hi>Turky</hi> Traders have been, who us'd not only to Export our Product, but this Product Employed great numbers of People; and the Re<g ref="char:EOLhyphen"/>turns of theſe Commodities being Ma<g ref="char:EOLhyphen"/>terials Unmanufactured, afford an Em<g ref="char:EOLhyphen"/>ployment in <hi>England</hi> for more than one hundred thouſand People; and the great difference between theſe and the <hi>India</hi> Merchant, who bring his Returns fully Manufactured: As to our <hi>Italian</hi> Mer<g ref="char:EOLhyphen"/>chants, it is apparent, their little Trade for their Returns have hinder'd their Exports, and I think it highly reaſon<g ref="char:EOLhyphen"/>able to conclude the loſs of the Uſe and Conſumption of our <hi>Turky</hi> and <hi>Itali<g ref="char:EOLhyphen"/>an</hi> Effects in the many Manufactures.</p>
+            <pb n="15" facs="tcp:64962:9"/>
+            <p> That they uſe to be wrought up in both <hi>London</hi> and <hi>Canterbury,</hi> have been a very great cauſe that our Exports to <hi>Turkey</hi> and <hi>Italy</hi> have been ſo low; and the great Loſs that have come to the Na<g ref="char:EOLhyphen"/>tion by the want of Employment for ſo many Thouſand People in <hi>London</hi> and <hi>Canterbury,</hi> is very difficult to compute; beſides the Damage that this Nation ſu<g ref="char:EOLhyphen"/>ſtains, by ſo many of its Artiſts going to <hi>Ireland, New-England,</hi> and other Places; the Effects we do not yet find, and what<g ref="char:EOLhyphen"/>ever Loſs comes to us theſe Ways, muſt be attributed to the Increaſe of <hi>India</hi> Ma<g ref="char:EOLhyphen"/>nufactures, that in ſuch a degree, have unhinged all theſe Trades; and in all its Parts (cannot amount to leſs than one hundred Thouſand Pound <hi>per Ann.</hi>) as it may have hindred the Export of Cloth, and Serges; and to as much as it hath hindred the Employment of our Poor, in working up the Returns of thoſe Com<g ref="char:EOLhyphen"/>modities, it being common to pay more for the working of Silk and Grogram-Yearn than the Material coſt.</p>
+            <p>The next thing to be conſider'd is, what Loſs there comes by the <hi>India.</hi> Trade, as it hinders the Employment of the Poor;
+<pb n="16" facs="tcp:64962:10"/>and the Employment of People being more advantagious to any Nation than any other Trade; and Experience ſhew<g ref="char:EOLhyphen"/>ing, that all Nations in the World are Rich or Poor, according as their People are employed; I conceive what Loſs comes this way to be irreparable, and no Equivalent to be found for it. Many aſ<g ref="char:EOLhyphen"/>ſert this <hi>India</hi> Trade to be very Advan<g ref="char:EOLhyphen"/>tagious, as it makes Two of One in Three Years; but though this be great, yet not to be compared to the Profit that comes by the Labour of the People. Take one In<g ref="char:EOLhyphen"/>ſtance, our fine Manufactures of Wool, will, in one Month's time bring ten thouſand Pound worth of Wool by La<g ref="char:EOLhyphen"/>bour and Art, to be worth one hundred thouſand Pound, which is Ten of one in a Month, and ſo go on throughout the Year. And if the Trade to <hi>India</hi> hinder the Employment of our People to any de<g ref="char:EOLhyphen"/>gree, it muſt neceſſarily be ſo far a great Loſs to <hi>England;</hi> now let any Man caſt his Eye about the <hi>Engliſh</hi> Nation, eſpeci<g ref="char:EOLhyphen"/>ally thoſe Places whofe Manufactures are oppoſite to <hi>India;</hi> or let him reflect a little upon the total loſs of many Species of Manufactures; that no Nation in <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi>
+               <pb n="17" facs="tcp:64962:10"/>could ever yet hinder us in either, as to our Home-Conſumptions, or Fo<g ref="char:EOLhyphen"/>reign Exports; and let us conſider the direct oppoſition there is between their Stuffs made of Silk, and Silk and Cotten, or only Cotten, and our Manufactures of Silks and Silk, and Worſted and Woolen; and how theſe take up the ſame Places with ours, and let us inquire into the Po<g ref="char:EOLhyphen"/>verty, the want of Work, the Cries of the Poor for Employment and Bread in theſe Places; and certainly we muſt con<g ref="char:EOLhyphen"/>clude, theſe Commodities hinder great<g ref="char:EOLhyphen"/>ly the Employment of our People, and the Poor muſt be maintain'd with, or without Work, and no Man can at the Requeſt of his Neighbours or Friends employ People in one Place, but he muſt leſſen his Employment in another, it be<g ref="char:EOLhyphen"/>ing very hard to conclude how far the Loſs by <hi>India</hi> Commodities reach under this Head, we will join it with the next; which is how this Trade hinders the Im<g ref="char:EOLhyphen"/>provement of our Manufactures.</p>
+            <p>Improvement is an Excellency which <hi>Engliſh</hi>-men generally have aſcribed to them; and it was a great Perfection, that Wooll, I mean the long fine <hi>Engliſh</hi>
+               <pb n="18" facs="tcp:64962:11"/>Wool was brought to in ſeveral kinds of Commodities; ten, fifteen, twenty Shil<g ref="char:EOLhyphen"/>lings laid out in Labour and Art upon one Pound of <hi>Engliſh</hi>-Wool, and many Thouſand Pieces of our Stuffs, that weigh'd not above ſix, eight or ten Pounds have been Exported to <hi>Holland,</hi> and <hi>Scotland,</hi> and the <hi>Weſt-Indies,</hi> and Sold for ſix, eight, or ten Pounds <hi>per</hi> Piece; and what a great Employment did one hundred thouſand Pound worth of Wool thus wrought, give to our People, and by conſequence, theſe ſome of the moſt valuable Manufactures <hi>England</hi> had; but ſince the Importation of ſuch Quantities of <hi>India</hi> Commodities, our Gentry of the Female Sex, and thoſe that follow them at Home, and abroad in their Faſhions.</p>
+            <p>Slighting our <hi>Engliſh</hi> Manufactures, the Dealers in them could not give a Price for, or incourage the making of them. The Ma<g ref="char:EOLhyphen"/>nufacturers have been forced to debaſe them, there being the greateſt Incourage<g ref="char:EOLhyphen"/>ment to him, that could make the ſlight<g ref="char:EOLhyphen"/>eſt Goods; ſo that whereas we us'd to make 100000 <hi>l.</hi> worth of Wool by La<g ref="char:EOLhyphen"/>bour, to be worth one Million either at
+<pb n="19" facs="tcp:64962:11"/>home or abroad. If we allow this Wool be now wrought up, it is in ſuch ſlight, cheap Commodities as amount not to more than three or four hundred thouſand Pound in value, which, as it is a great Loſs to the Nation, ſo it is a true Rea<g ref="char:EOLhyphen"/>ſon why not more than one Third Part of thoſe People are employed as might and would be, had we none or fewer of theſe <hi>Indian</hi> Manufactures; now I being fully ſatisfy'd that this is matter of Fact and true, I hope I may have leave to make a modeſt gueſs; I ſuppoſe that there us'd to be Annually two hundred thouſand Pounds worth of our long Wool wrought up in thoſe Commodities, now either loſt or debaſed; and that the like quantity of this Wool is wrought up into Commodi<g ref="char:EOLhyphen"/>ties, which make but four of one; then upon this Head there muſt be 1200000 <hi>l.</hi> loſt in Labour and Art <hi>per Ann.</hi> and this loſs of Employment muſt come from <hi>In<g ref="char:EOLhyphen"/>dia</hi> Manufactures being conſumed by the Chief of our Gentry at Home, and our Plantations abroad that follow our Faſhi<g ref="char:EOLhyphen"/>ons, no other Manufactures ſtanding in oppoſition to them; and beſides the loſs, this tends greatly to the Nation's diſho<g ref="char:EOLhyphen"/>nour.
+<pb n="20" facs="tcp:64962:12"/>The laſt Thing I ſhall mention, is to ſhew how this Trade hinder the Con<g ref="char:EOLhyphen"/>ſumption of, and keeps down the Price of our Wool; as to the Conſumption of Wool, if as before it hinders our Export to <hi>Turkey</hi> and <hi>Italy,</hi> to the value of one hundred thouſand Pound <hi>per Ann.</hi> The Wool that thoſe Commodities would take up, muſt be to the value of ſixteen thou<g ref="char:EOLhyphen"/>ſand <hi>l.;</hi> and if we ſhall allow our <hi>Weſt-India</hi> Exports, and home Conſumption to be but one hundred thouſand Pound in value, yet this is a great loſs; and I can<g ref="char:EOLhyphen"/>not reckon all the Wool that is Exported Annually by our <hi>India Traders,</hi> to amount to more than 6 or 7000 <hi>l.</hi> for which I have accounted in my Head for Profit; and as to the Price of this Wool, the <hi>In<g ref="char:EOLhyphen"/>dia</hi> Trade ſo far as it leſſens the Conſump<g ref="char:EOLhyphen"/>tion, it muſt bring down the Price; theſe things being matter of Fact, I leave it to better Judgments to conſider of them; but if true, as I think and believe upon the beſt Inquiry and Obſervation I can make, Then the ſtate of <hi>England</hi>'s loſs by <hi>India</hi> Manufactures, that are oppoſite to our own, ſtands thus;
+<table>
+                  <pb n="21" facs="tcp:64962:12" rendition="simple:additions"/>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>Pounds.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Damage as it hinders our Exports to <hi>Holland, Germany, Portugal,</hi> and our <hi>Weſt-India</hi> Colonies,</cell>
+                     <cell>200000</cell>
+                  </row>
+                  <row>
+                     <cell>As it hinders our Export to <hi>Turkey</hi> and <hi>Italy.</hi>
+                     </cell>
+                     <cell>100000</cell>
+                  </row>
+                  <row>
+                     <cell>As it hinders the working up of <hi>Turkey</hi> and <hi>Italian</hi> Ef<g ref="char:EOLhyphen"/>fects, and employment of our Poor in them.</cell>
+                     <cell>100000</cell>
+                  </row>
+                  <row>
+                     <cell>As it hinders the Employ<g ref="char:EOLhyphen"/>ing of our Poor, and pro<g ref="char:EOLhyphen"/>cures the debaſing our own fine Manufactures.</cell>
+                     <cell>1200000</cell>
+                  </row>
+                  <row>
+                     <cell>As it hinders the Conſump<g ref="char:EOLhyphen"/>tion of our Wool, and as it tends to bring down the val<g ref="char:EOLhyphen"/>lue thereof.</cell>
+                     <cell>116000</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Total</cell>
+                     <cell role="label">1716000<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>And I hope no Man will wonder at this Account, when they conſider the great part of the dammage lies in the ten<g ref="char:EOLhyphen"/>dency of this <hi>India</hi> Trade, to the deba<g ref="char:EOLhyphen"/>ſing of our own Manufactures, and ſo hinders the Employment of our People in
+<pb n="22" facs="tcp:64962:13" rendition="simple:additions"/>them, and bringing them out of Reputation wherever they come; for this Trade would have the ſame effect upon Cloth, ſhould there be brought great quantities of Commodities from <hi>India,</hi> or any other Place in oppoſition to it, that ſhould have the ſame eſteem with the People; and here we may ſee that there comes more Loſs to <hi>England</hi> than Profit by this Trade <hi>per An.</hi> 1156000 <hi>l.:</hi> And if theſe things be plain and evident, can this Trade, as managed, be accounted profitable, when part of it does much more hurt than the whole does good? And is it not natural to the Nobility and Gentry of <hi>England</hi> to in<g ref="char:EOLhyphen"/>fer, we ſee what part is fit to be incou<g ref="char:EOLhyphen"/>raged, and what a neceſſity there is to re<g ref="char:EOLhyphen"/>ſtrain that which does ſo much damage?</p>
+            <p>And certainly every <hi>Engliſh</hi>-man con<g ref="char:EOLhyphen"/>cern'd in this Trade, will no longer de<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to carry on a Trade ſo much to the damage of his Country.</p>
+            <p>And the Whole-Sale and Retail Dealers in theſe Commodities ſhould infer, ſince we can live as well, and ſave as much Mo<g ref="char:EOLhyphen"/>ney in buying and felling <hi>Engliſh</hi> as <hi>Indian</hi> Manufactures, why ſhould we deſire to hinder the Labour of our Neighbour,
+<pb n="23" facs="tcp:64962:13"/>who, if he had Employment, would lay out part of his Gettings in our Shops?</p>
+            <p>And the Conſumer ſhould conclude it moſt elegable to wear ſuch Garments as will moſt advance his own Eſtate, and ſupport his poor Neighbour, and cauſe Mony to Circulate through every part of his Country, and thereby make the Inha<g ref="char:EOLhyphen"/>bitants Pleaſant, Eaſy, Chearful, Uſeful, Induſtrious and Pious.</p>
+            <p>And the Owners of Land may conſider the Natural Effects of this Trade, ſo far as it hinders the Labour of the Poor; the Employment of People being the only means to give a value to Land; then ſo far as any Trade hinders Employment, ſo far it muſt leſſen the value of the Product and Rents of Land.</p>
+            <p>I hope the Gentlemen concerned in this Trade, did not apprehend what a Loſs this part of it is to the Nation; and that they thought, that tho' it damaged the Manufactures a little, it was of Advan<g ref="char:EOLhyphen"/>tage to the whole, and were deceived by the falſe Colours that ſome put upon it; and by others repreſenting only the light ſide of it; and may it not be expected, that others will either ſhew the miſtake
+<pb n="24" facs="tcp:64962:14"/>of this Account, or act like <hi>Engliſh</hi>-men, and not any longer hinder the Publick Good by ſuch weak Pretences; that if the Co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>modities come not from <hi>India,</hi> they will be brought from our <hi>European</hi> Neigh<g ref="char:EOLhyphen"/>bours, when they ſee the great Loſs comes by ſuch Manufactures as our Neigh<g ref="char:EOLhyphen"/>bours cannot pretend to Import upon us, but we have conſtantly Exported to them? Or that other Excuſe, that we muſt con<g ref="char:EOLhyphen"/>ſume thoſe Goods, or the <hi>Dutch</hi> will have the Trade; whereas our Kings Domini<g ref="char:EOLhyphen"/>ons Conſume at leaſt three parts in four of what is brought to <hi>Europe</hi> of theſe Com<g ref="char:EOLhyphen"/>modities.</p>
+            <byline>By <hi>T. S.</hi>
+            </byline>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64962:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
